@@ -1,0 +1,1 @@
+/Users/idjighereoghenerukevwesandra/Desktop/RUSTLANG/convert_fanreheit_to_celsuis/target/debug/convert_fanreheit_to_celsuis: /Users/idjighereoghenerukevwesandra/Desktop/RUSTLANG/convert_fanreheit_to_celsuis/src/main.rs
